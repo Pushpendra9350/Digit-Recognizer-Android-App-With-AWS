@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Digit Recognizer</string>
+    <string name="train_model">Train Model</string>
+    <string name="About">About</string>
+    <string name="about">
+        This app can recognize handwritten digits. Draw a digit on the canvas above and press the "Recognize" button to see a prediction. Press the "Reset" button to clear the canvas and draw a digit again.
+    </string>
+</resources>
