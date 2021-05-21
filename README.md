@@ -109,6 +109,7 @@ In this grapht we ca see ADAM is performing so we choose ADAM as our optimizer<b
 * AWS - EC2
 * etc
 
+<a name="future"></a>
 ### Future Scope
 * Extend this project to evaluate equations of maths.
 * We can optimize this model with epoches, batch size, learning rate, dropout, maxpolling, and momentum.
@@ -116,8 +117,9 @@ In this grapht we ca see ADAM is performing so we choose ADAM as our optimizer<b
 * We can add more classes like a to z also and 1 to 100 digits number 
 * We can implement this model in the mobile with the help of tensorflow lite.
 
-### THANKS TO READ
+### THANKS FOR READING
 
+<a name="ref"></a>
 ### References
 https://demonuts.com/<br>
 https://machinelearningmastery.com/
