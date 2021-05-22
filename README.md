@@ -78,7 +78,7 @@ Screensshot is given below<br><br>
 </table>
 <br>
 As we can clearly see that BLUE curve model is performing best in all three cases so we coose this model to continue.<br>
-And summary of this neural network is given below and for more detailed analysis go to this .ipynb https://github.com/Pushpendra9350/Digit-Recognizer-Android-App-With-AWS/blob/master/CNNLayer_%26_Optimizer_finding.ipynb
+And summary of this neural network is given below and for more detailed analysis go to this .ipynb https://nbviewer.jupyter.org/github/Pushpendra9350/Digit-Recognizer-Android-App-With-AWS/blob/master/CNNLayer_%26_Optimizer_finding.ipynb
 <br><br>
 <img width="552" alt="Screenshot 2021-05-21 at 2 39 14 PM" src="https://user-images.githubusercontent.com/43174363/119129817-0abbd300-ba55-11eb-9146-9116017144fa.png">
 <br>
