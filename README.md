@@ -1,7 +1,7 @@
 # Digit Recognizer Android Application deployed on AWS
 
 ## VIDEO DEMO: https://youtu.be/-VYZBYkXAh0
-![Group 68](https://user-images.githubusercontent.com/43174363/119131906-a8180680-ba57-11eb-8093-8fd141c3996a.png)
+![Group 68](https://user-images.githubusercontent.com/43174363/120524895-2f209380-c3f5-11eb-96ae-92f9ec266d65.png)
 
 ## Table Of Content 
 [Overview](#overview)<br>
@@ -54,7 +54,7 @@ Motive to develop this project:
 ### Technical Aspects
 
 #### Architecture
-![photo_2021-06-02 19 49 30](https://user-images.githubusercontent.com/43174363/120497165-cd9ffb00-c3db-11eb-9996-e5d3e31ec835.jpeg)
+![photo_2021-06-02 22 51 14](https://user-images.githubusercontent.com/43174363/120525010-49f30800-c3f5-11eb-8d56-1aaf49f87e21.jpeg)
 
 #### Modeling 
 In this application we have used MNIST digit dataset <br>
@@ -118,10 +118,10 @@ In this grapht we ca see ADAM is performing so we choose ADAM as our optimizer<b
 * We can add more classes like a to z also and 1 to 100 digits number 
 * We can implement this model in the mobile with the help of tensorflow lite.
 
-### THANKS FOR READING
 
 <a name="ref"></a>
 ### References
 https://demonuts.com/<br>
 https://machinelearningmastery.com/
 
+### THANKS FOR READING
