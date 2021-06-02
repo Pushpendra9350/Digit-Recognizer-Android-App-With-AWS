@@ -8,9 +8,10 @@
 [Motivation](#motivation)<br>
 [Screenshots](#screenshots)<br>
 [How to run it](#runit)<br>
-[Technical Aspects](#tech)<br>
+[Technical Aspects & architecture](#tech)<br>
 [Future Scope](#future)<br>
 [References](#ref)<br>
+
 
 <a name="overview"></a>
 ### Overview 
@@ -52,6 +53,9 @@ Motive to develop this project:
 <a name="tech"></a>
 ### Technical Aspects
 
+#### Architecture
+![photo_2021-06-02 19 49 30](https://user-images.githubusercontent.com/43174363/120497165-cd9ffb00-c3db-11eb-9996-e5d3e31ec835.jpeg)
+
 #### Modeling 
 In this application we have used MNIST digit dataset <br>
 **About Dataset**<br>
@@ -87,9 +91,6 @@ Optimizer Analysis is given below<br><br>
 <br>
 In this grapht we ca see ADAM is performing so we choose ADAM as our optimizer<br><br>
 
-**For Android application Architechture** <br><br>
-![Group 64](https://user-images.githubusercontent.com/43174363/119131886-a3ebe900-ba57-11eb-8b38-41ec91e26596.png)
-<br><br>
 **Technology, libraries, tools, and framework used**
 * Python
 * Flask
